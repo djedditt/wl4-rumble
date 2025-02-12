@@ -1,3 +1,5 @@
+[English](README.md)/[日本語](README-ja.md)
+
 # Wario Land 4: Jungle Rumble!
 
 If you’re a Wario Land 4 fan, get ready to bump up your treasure hunting experience to a new level of immersion. The "Jungle Rumble!" patch brings comprehensive rumble support to the original Game Boy Advance classic, by providing tactile feedback for many in-game actions and events.
@@ -27,7 +29,10 @@ Let's get greedy and grab the patch from the [releases](https://github.com/djedd
 ## Usage
 Use an IPS patcher tool like [Lunar IPS](https://fusoya.eludevisibility.org/lips/) or [Rom Patcher JS](https://www.marcrobledo.com/RomPatcher.js/) to apply the `wl4-rumble_x.x.x.ips` patch to either a USA, Europe or Japan version of a clean Wario Land 4 ROM (valid CRC32s are `D6141609` and `F56EBB7A`).
 
-_*openFPGA-GBA core users have to apply an additional [addendum](addendum) patch after using the regular patch, in order for rumble to work. Use either `AWAE-V49E_hackfix.ips` (USA, Europe) or `AWAJ-V49J_hackfix.ips` (Japan) depending on the region of the ROM._
+_*openFPGA-GBA core users have to apply an [additional patch](addendum) after using the regular patch to enable rumble. Use the hackfix patch that matches the region of your ROM._
+
+- `AWAE-V49E_hackfix.ips` (USA, Europe)
+- `AWAJ-V49J_hackfix.ips` (Japan)
 
 ## Screenshots
 
