@@ -14,15 +14,17 @@ This patch is compatible with most hardware and emulators, including:
 - EZ-FLASH Omega Definitive Edition flashcart
 - insideGadgets 32MB 256Kbit FRAM rumble flashcart
 - MiSTer hardware emulators
-- Analogue Pocket
+- Analogue Pocket*
 - mGBA emulator
 
 ## Download
 
-Grab the patch from the [releases](https://github.com/djedditt/wl4-rumble/releases) section and get a feel for how it shakes things up! Wario would probably demand a cut of the profits, but thankfully this patch is free. If you enjoy it, feel free to share a review in the relevant [discussions](https://github.com/djedditt/wl4-rumble/discussions/categories/reviews) section.
+Grab the patch from the [releases](https://github.com/djedditt/wl4-rumble/releases) section and see how it shakes things up. Wario would probably demand a cut of the profits, but thankfully this patch is free. If you have questions or feedback feel free to share your thoughts in the relevant [discussions](https://github.com/djedditt/wl4-rumble/discussions) section. Legacy reviews can be found in [REVIEWS.md](https://github.com/djedditt/wl4-rumble/tree/main/REVIEWS.md)
 
 ## Usage
-Use an IPS patcher tool like [Lunar IPS](https://fusoya.eludevisibility.org/lips/) or [Rom Patcher JS](https://www.marcrobledo.com/RomPatcher.js/) to apply the patch to either a USA, Europe or Japan version of a clean Wario Land 4 ROM.
+Use an IPS patcher tool like [Lunar IPS](https://fusoya.eludevisibility.org/lips/) or [Rom Patcher JS](https://www.marcrobledo.com/RomPatcher.js/) to apply the `wl4-rumble_x.x.x.ips` patch to either a USA, Europe or Japan version of a clean Wario Land 4 ROM (valid CRC32s are `D6141609` and `F56EBB7A`).
+
+_*openFPGA-GBA core users have to apply an additional [addendum](https://github.com/djedditt/wl4-rumble/tree/main/addendum) patch after using the regular patch, in order for rumble to work. Use either `AWAE-V49E_hackfix.ips` (USA, Europe) or `AWAJ-V49J_hackfix.ips` (Japan) depending on the region of the ROM._
 
 ## Screenshots
 

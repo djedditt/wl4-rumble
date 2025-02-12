@@ -1,5 +1,17 @@
 # Changelog
 
+## [1.0.0] - 2025-02-12
+
+I'm excited to announce the official 1.0.0 release of the "Jungle Rumble!" patch for Wario Land 4! Moving forward we'll be using standard semantic versioning. So what's new?
+
+### Enhancements
+- Added rumble off/on toggle in save select menu (setting is stored in save)
+- Added additional rumble events to cutscenes and boss fights
+- Added rumble events to Wario Roulette mini-game
+
+### Bug fixes
+- Fixed several bugs where rumble could get stuck on scene transitions
+
 ## Older Releases
 
 ## [v0.9b] - 2023-08-24
