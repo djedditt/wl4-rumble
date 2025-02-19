@@ -2,7 +2,7 @@
 
 # Wario Land 4: Jungle Rumble!
 
-If you’re a Wario Land 4 fan, get ready to bump up your treasure hunting experience to a new level of immersion. The "Jungle Rumble!" patch brings comprehensive rumble support to the original Game Boy Advance classic, by providing tactile feedback for many in-game actions and events.
+If you’re a Wario Land 4 fan, get ready to bump up your treasure hunting experience to a new level of immersion. The "Jungle Rumble!" patch brings comprehensive rumble support to the original Game Boy Advance classic, by providing tactile feedback for many in-game actions and events. A convenient toggle in the save selection menu lets you easily turn the feature on or off.
 
 ## Game Boy Player Compatibility
 
