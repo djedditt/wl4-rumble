@@ -1,5 +1,10 @@
 # Changelog
 
+## [1.0.1] - 2025-04-29
+
+### Bug fixes
+- Fixed Wario not stunning when piston hits the ground in The Curious Factory
+
 ## [1.0.0] - 2025-02-12
 
 I'm excited to announce the official 1.0.0 release of the "Jungle Rumble!" patch for Wario Land 4! Moving forward we'll be using standard semantic versioning. So what's new?
