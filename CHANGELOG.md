@@ -1,5 +1,10 @@
 # Changelog
 
+## [1.0.2] - 2025-04-30
+
+### Bug fixes
+- Fixed cartridge rumble not working after 1.0.1 update
+
 ## [1.0.1] - 2025-04-29
 
 ### Bug fixes
