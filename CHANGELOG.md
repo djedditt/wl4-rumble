@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.3] - 2025-07-06
+
+### Bug fixes
+- Fixed cartridge (GPIO) rumble in mGBA* and GBARunner3 by switching to 16-bit writes
+
+*It is recommended to update mGBA to 0.11 or higher in order for GPIO rumble to work correctly.
+
 ## [1.0.2] - 2025-04-30
 
 ### Bug fixes
