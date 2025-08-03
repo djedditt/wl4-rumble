@@ -1,5 +1,10 @@
 # Changelog
 
+## [1.0.4] - 2025-08-03
+
+### Bug fixes
+- Fixed variety of rumble issues in Golden Diva boss fight
+
 ## [1.0.3] - 2025-07-06
 
 ### Bug fixes
